@@ -1,5 +1,9 @@
 remote_theme: loreno-heer/minimal
 title: "Loreno Heer"
-description: "Loreno Heer\nInstitut für Mathematik\nUniversität Zürich\nWinterthurerstrasse 190\nCH-8057 Zürich"
+description: | Loreno Heer
+               Institut für Mathematik
+               Universität Zürich
+               Winterthurerstrasse 190
+               CH-8057 Zürich"
 show_downloads: false
 markdown: kramdown
