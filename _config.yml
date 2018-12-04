@@ -5,6 +5,6 @@ description:   Office G25 <br/>
                Universität Zürich<br/>
                Winterthurerstrasse 190<br/>
                CH-8057 Zürich <br/> <br/>
-               loreno.heer@math.ch
+               <script type="text/javascript">gen_mail_to_link('loreno.heer','math.ch','email');</script>
 show_downloads: false
 markdown: kramdown
