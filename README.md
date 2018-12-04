@@ -3,3 +3,6 @@
 
 # Teaching
 
+# Social networking
+- [math.stackexchange](https://math.stackexchange.com/users/92018/loreno-heer)
+- [MathOverflow](https://mathoverflow.net/users/54495/loreno-heer)
