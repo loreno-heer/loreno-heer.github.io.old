@@ -2,8 +2,9 @@
 
 # Teaching
 
-Test 123 123 123
+Test $x$
+test
 
-$$x^2$$
+\[x^2\]
 
-
+test
