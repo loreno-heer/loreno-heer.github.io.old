@@ -8,7 +8,11 @@
 - HS2017 MAT101: Programming, [Bitcoin Project](teaching/hs17/mat101/bitcoin)
 - HS2016 MAT101: Programming, [Steganography Project](teaching/hs16/mat101/stegano)
 
-# Social networking
+# Activities and Memberships
+Reviewer for *Zentralblatt MATH* and *AMS MathSciNet*. Member of the *Swiss Mathematical Society*.
+
+
+# Social Networking
 - [math.stackexchange](https://math.stackexchange.com/users/92018/loreno-heer)
 - [MathOverflow](https://mathoverflow.net/users/54495/loreno-heer)
 
