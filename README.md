@@ -16,7 +16,7 @@
 - FS2016 MAT153: Zahlentheorie
 - FS2016 MAT151: Grundbegriffe der Mathematik
 
-#MSc Thesis Co-Advisor
+# MSc Thesis Co-Advisor
 
 - FS2018: Andresen, Silke Berit, Low-dimensional Boundaries of CAT(0) Spaces
 
