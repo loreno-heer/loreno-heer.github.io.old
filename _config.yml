@@ -1,10 +1,9 @@
 remote_theme: loreno-heer/minimal
 title: "Loreno Heer"
-description:   Office G25 <br/>
-               Institut für Mathematik<br/>
-               Universität Zürich<br/>
-               Winterthurerstrasse 190<br/>
-               CH-8057 Zürich <br/> <br/>
+description:   Postal Address: <br/>
+               Haldenstrasse 132<br/>
+               3014 Bern<br/>
+               Switzerland<br/><br/>
                <script type="text/javascript">gen_mail_to_link('loreno.heer','math.ch','email');</script>
 show_downloads: false
 markdown: kramdown

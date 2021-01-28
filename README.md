@@ -4,6 +4,7 @@
 # Drafts
 
 # Teaching
+## Exercise Classes
 - HS2020 MAT101: Programming, [Donkey Kong Project](teaching/hs20/mat101/dk)
 - FS2020 MAT184: Analysis fuer die Chemie
 - HS2019 MAT101: Programming, [Tetris Project](teaching/hs19/mat101/tetris)
@@ -16,7 +17,7 @@
 - FS2016 MAT153: Zahlentheorie
 - FS2016 MAT151: Grundbegriffe der Mathematik
 
-# MSc Thesis Co-Advisor
+## MSc Thesis Co-Advisor
 
 - FS2018: Andresen, Silke Berit, Low-dimensional Boundaries of CAT(0) Spaces
 
