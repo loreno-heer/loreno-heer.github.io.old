@@ -9,17 +9,17 @@
 
 # Teaching
 ## Exercise Classes
-- HS2020 MAT101: Programming, [Donkey Kong Project](teaching/hs20/mat101/dk)
-- FS2020 MAT184: Analysis fuer die Chemie
-- HS2019 MAT101: Programming, [Tetris Project](teaching/hs19/mat101/tetris)
-- FS2019 MAT184: Analysis fuer die Chemie
-- HS2018 MAT101: Programming, [Flappy Bird Project](teaching/hs18/mat101/flappy)
-- FS2018 MAT823: Introduction to Computability and Complexity Theory
-- HS2017 MAT101: Programming, [Bitcoin Project](teaching/hs17/mat101/bitcoin)
-- FS2017 MAT112: Lineare Algebra II
-- HS2016 MAT101: Programming, [Steganography Project](teaching/hs16/mat101/stegano)
-- FS2016 MAT153: Zahlentheorie
-- FS2016 MAT151: Grundbegriffe der Mathematik
+- UZH HS2020 MAT101: (Python) Programming, [Donkey Kong Project](teaching/hs20/mat101/dk)
+- UZH FS2020 MAT184: Analysis für die Chemie
+- UZH HS2019 MAT101: (Python) Programming, [Tetris Project](teaching/hs19/mat101/tetris)
+- UZH FS2019 MAT184: Analysis für die Chemie
+- UZH HS2018 MAT101: (Python) Programming, [Flappy Bird Project](teaching/hs18/mat101/flappy)
+- UZH FS2018 MAT823: Introduction to Computability and Complexity Theory
+- UZH HS2017 MAT101: (Python) Programming, [Bitcoin Project](teaching/hs17/mat101/bitcoin)
+- UZH FS2017 MAT112: Lineare Algebra II
+- UZH HS2016 MAT101: (Python) Programming, [Steganography Project](teaching/hs16/mat101/stegano)
+- UZH FS2016 MAT153: Zahlentheorie
+- UZH FS2016 MAT151: Grundbegriffe der Mathematik
 
 ## MSc Thesis Co-Advisor
 
