@@ -1,3 +1,4 @@
+<header>Loreno Heer</header>
 # Publications
 - BSc Thesis (2012) [full text](articles/bathesis.pdf)
 - MSc Thesis (2015) [full text](articles/masterthesis.pdf)
