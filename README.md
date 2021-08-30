@@ -29,7 +29,7 @@ Reviewer for *Zentralblatt MATH* and *AMS MathSciNet*. Member of the *Swiss Math
 
 
 # Social Networking
-![math.stackexchange flair](https://stackexchange.com/users/flair/3229416.png)
+[![math.stackexchange flair](https://stackexchange.com/users/flair/3229416.png)](https://stackexchange.com/users/3229416/loreno-heer)
 - [math.stackexchange](https://math.stackexchange.com/users/92018/loreno-heer)
 - [MathOverflow](https://mathoverflow.net/users/54495/loreno-heer)
 
