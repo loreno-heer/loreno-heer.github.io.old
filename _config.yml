@@ -1,8 +1,7 @@
 remote_theme: loreno-heer/minimal
 title: "Loreno Heer"
 logo: /assets/cvphot2.jpg
-description: <br/>
-               <br/>
+description:   <br/><br/>
                <br/>
 	       <a href="/CVeng.pdf">Curriculum vitae</a><br/>
                <script type="text/javascript">gen_mail_to_link('loreno.heer','math.ch','email');</script>
