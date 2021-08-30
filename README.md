@@ -26,7 +26,7 @@
 - FS2018: Andresen, Silke Berit, Low-dimensional Boundaries of CAT(0) Spaces
 
 # Activities and Memberships
-Reviewer for *Zentralblatt MATH* and *AMS MathSciNet*. Member of the *Swiss Mathematical Society*.
+Reviewer for [*Zentralblatt MATH*](https://zbmath.org/?q=loreno+heer) and [*AMS MathSciNet*](https://mathscinet.ams.org/mathscinet/). Member of the [*Swiss Mathematical Society*](https://www.math.ch/).
 
 
 # Social Networking
