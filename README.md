@@ -1,4 +1,7 @@
 <title>Loreno Heer</title>
+<meta name="description" content="Website of Dr. sci. nat. Loreno Heer, Mathematician">
+<meta name="keywords" content="Mathematics, Geometry, Loreno Heer, Heer, Hyperbolic, Analysis,quasisymmetric, geometric group theory, geometric analysis, ETH, Zurich, Bern, University of Zurich, ETH Zurich, Physics, Neuroscience, Deeplearning, Python, Programming">
+<meta name="author" content="Loreno Heer">
 # Research interest
 Analysis in metric spaces, in particular quasiconformal, quasi-symmetric and quasi-Möbius geometry.
 (Gromov-)Hyperbolic geometry, geometric group theory, geometric analysis and low-dimensional topology.
