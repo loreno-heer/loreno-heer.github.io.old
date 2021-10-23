@@ -1,3 +1,7 @@
+# MAT101: Programming (HS20), Python Project: Donkey Kong Game
+
+![Donkey Kong project example image](example.jpg)
+
 # Sample Code
 
 All the sample code that has been written during the exercise classes for the
