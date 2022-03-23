@@ -5,7 +5,7 @@
 # Research interest
 Analysis in metric spaces, in particular quasiconformal, quasi-symmetric and quasi-Möbius geometry.
 (Gromov-)Hyperbolic geometry, geometric group theory, geometric analysis and low-dimensional topology.
-Besides pure mathematics I am interested in connections between computer science and mathematics, the geometry of space-time and neuroscience.
+Besides pure mathematics I am interested in mathematical physics, in particular the geometry of space-time and string theory. Further interests are the connections between mathematics and computer science and neuroscience.
 
 # Publications
 - PhD Thesis (2021) [full text](articles/thesis.pdf)
