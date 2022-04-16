@@ -9,8 +9,6 @@
 \usepackage{hyperref}
 \usepackage{microtype}
 \usepackage{fullpage}
-\usepackage{xcolor}
-\usepackage[symbol]{footmisc}
 
 \title{Errata for Geometry, Topology and Physics (Second
   Edition) by Mikio Nakahara}
@@ -32,7 +30,7 @@
 of Geometry, Topology and Physics. Credit goes to George Johnson (\url{mailto:george.johnson@physics.ox.ac.uk}) for unmarked items.
 For items marked *, the credit goes
 to the creator(s) of the errata at \url{http://theory.caltech.edu/classes/ph229a/}.
-Newly added items (by me, \url{mailto:loreno.heer@math.ch}) are marked with \dagger.
+Newly added items (by me, \url{mailto:loreno.heer@math.ch}) are marked with !.
 Note, I did not have the original tex file to edit and used OCR to convert the previous errata. This may
 have introduced some errors. -LH
 \end{abstract}
@@ -40,72 +38,70 @@ have introduced some errors. -LH
 
 \begin{enumerate}
 
-\item page 6\footnotemark[2], ``Lagrange equation is employed to replace the LHS'' should be ``Lagrange equation is employed to replace the RHS''
-\item page 8, in the Lagrangian in example $1.4$, $\dot{\phi}^{2}$ should be $\dot{\theta}^{2}$
+\item page 8 , in the Lagrangian in example $1.4 \dot{\phi}^{2}$ should be $\dot{\theta}^{2}$
 
-\item page 9, a bra vector should be defined as an element of $\mathcal{H}^{*}$
+\item page 9 , a bra vector should be defined as an element of $\mathcal{H}^{*}$
 
-\item page 17, in (1.65) $\varepsilon$ should be $2 \varepsilon$
+\item page 17 , in (1.65) $\varepsilon$ should be $2 \varepsilon$
 
 \item page 21, in (1.92) there is a missing factor of $\sqrt{m}$
 
-\item page 21, in (1.92) the factor $(x-y)$ should be squared only once
+\item page 21 , in (1.92) the factor $(x-y)$ should be squared only once
 
-\item page 33, many missing factors of $m$ in equations (1.143) - (1.151)
+\item page 33 , many missing factors of $m$ in equations (1.143) - (1.151)
 
 \item page $38,(1.164)$ and equation beneath seem incorrect, see comments below
 
-\item page 39, the Hamiltonian at the top of the page is missing a factor of $\omega$
+\item page 39 , the Hamiltonian at the top of the page is missing a factor of $\omega$
 
-\item page 39, in (1.168) $c c^{\dagger}$ should be $c^{\dagger} c$
+\item page 39 , in (1.168) $c c^{\dagger}$ should be $c^{\dagger} c$
 
-\item page 44, $\mathrm{d} \theta$ should be $\mathrm{d} \theta^{\prime}$ in (1.187); $\mathrm{d} \theta_{1}$ should be $\mathrm{d} \theta_{1}^{\prime}$ in equation for $I^{2}$
+\item page 44 , $\mathrm{d} \theta$ should be $\mathrm{d} \theta^{\prime}$ in (1.187); $\mathrm{d} \theta_{1}$ should be $\mathrm{d} \theta_{1}^{\prime}$ in equation for $I^{2}$
 
-\item page 44, variable change from $\theta_{k}, \theta_{k}^{\prime}$ to $\eta_{k}, \eta_{k}^{*}$ seems incorrect, see comments below
+\item page 44 , variable change from $\theta_{k}, \theta_{k}^{\prime}$ to $\eta_{k}, \eta_{k}^{*}$ seems incorrect, see comments below
 
-\item page 45, in equation at top of page, $\mathrm{d} \eta_{i}$ should be $\mathrm{d} \eta_{1}$
+\item page 45 , in equation at top of page, $\mathrm{d} \eta_{i}$ should be $\mathrm{d} \eta_{1}$
 
-\item page 45, in (1.190) there should be no $2^{n / 2}$ and exponent should be ${ }^{t} K M^{-1} K / 2$
+\item page 45 , in (1.190) there should be no $2^{n / 2}$ and exponent should be ${ }^{t} K M^{-1} K / 2$
 
-\item page 48, in second line of second equation for $Z(\beta)$, missing factor $\mathrm{e}^{-\theta^{*} \theta}$
+\item page 48 , in second line of second equation for $Z(\beta)$, missing factor $\mathrm{e}^{-\theta^{*} \theta}$
 
-\item page 50, in equation for $Z(\beta)$, first two products should run over $n$, not $k$
+\item page 50 , in equation for $Z(\beta)$, first two products should run over $n$, not $k$
 
-\item page 53, in (1.220) the - in front of i $\varepsilon$ should be $+$
+\item page 53 , in (1.220) the - in front of i $\varepsilon$ should be $+$
 
 \item page $53 \mathrm{~ , ~ i n ~ ( 1 . 2 2 4 ) ~ t h e ~ - ~ i n ~ f r o n t ~ o f ~ t h e ~ i n t e g r a l ~ a n d ~ i n ~ f r o n t ~ o f ~ i}$
 
-\item page 55, in (1.237) the $x$ in the argument of the exponential should be $(x-y)$
+\item page 55 , in (1.237) the $x$ in the argument of the exponential should be $(x-y)$
 
-\item page 56, in (1.241d) the second $\mathbf{E}$ should be $\mathbf{B}$
+\item page 56 , in (1.241d) the second $\mathbf{E}$ should be $\mathbf{B}$
 
 \item page 64, in (1.293) there should be no factor of i
 
-\item page 65, the LHS of $(1.298)$ should be traced over
+\item page 65 , the LHS of $(1.298)$ should be traced over
 
 \item page 65, (1.298) should have only one Hodge star in the second term
 
 \item page 65, in (1.300), (1.304) there should be no factor of $\mathrm{i}$
 
-\item page 65, (1.301b) should have $\mathrm{a}+$ instead of a $-$ for consistency with (10.117b)
+\item page 65 , (1.301b) should have $\mathrm{a}+$ instead of a $-$ for consistency with (10.117b)
 
 \end{enumerate}
 
 \section*{Homotopy Groups}
 
 \begin{enumerate}
-\item page 130, in (4.9), should have $1 / 2 \leq r \leq 1$
-\item page 130\footnotemark[1], in example $4.1$ the homotopy interpolates between $\operatorname{id}_{Y}$ and $f \circ g$
-\item page 152\footnotemark[2], (a) $n > 2$ should be $n \geq 2$
+\item page 130 , in (4.9), should have $1 / 2 \leq r \leq 1$
+\item page $130 *$, in example $4.1$ the homotopy interpolates between $\operatorname{id}_{Y}$ and $f \circ g$
 \end{enumerate}
 
 \section*{Manifolds}
 
 \begin{enumerate}
 
-\item page 196, in (5.62) the $\wedge$ on the RHS should all be $\otimes$
+\item page 196 , in (5.62) the $\wedge$ on the RHS should all be $\otimes$
 
-\item page 199, beneath (5.70), the sum should run from $i=1$ to $r+1$
+\item page 199 , beneath (5.70), the sum should run from $i=1$ to $r+1$
 
 \item page $202 *(5.83)$ should read $\mathrm{i}_{[X, Y]} \omega=\left[\mathcal{L}_{X}, \mathrm{i}_{Y}\right] \omega$
 
@@ -118,8 +114,6 @@ have introduced some errors. -LH
 \item page 216 , beneath $(5.138)$, should have $T_{g}^{*} G$
 
 \item page $217^{*}$, beneath $(5.130)$, should have $-x^{t} \eta x$ instead of $-X^{t} \eta X$
-
-  \item page 217 \footnotemark[2], last paragraph reference to 5.14 should be 5.141
 
 \end{enumerate}
 \section*{De Rham Cohomology Groups}
@@ -143,9 +137,6 @@ have introduced some errors. -LH
 \section*{Riemannian Geometry}
 
 \begin{enumerate}
-\item page 250\footnotemark[2], equation (7.15) should be:
-  \[... = ... = V^\mu(e_\mu[W^{\color{red} \nu}]e_\nu+W^\nu\nabla_{e_\mu}e_\nu) = ...\]
-  
 \item page 253 , beneath $(7.29)$, should have $Y^{\mu}$ in the second term on the $\mathrm{RHS}$
 
 \item page 253 , above $(7.30)$, should have $V^{\kappa} \nabla_{\kappa} X=V^{\kappa} \nabla_{\kappa} Y=0$
