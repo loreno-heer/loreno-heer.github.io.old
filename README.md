@@ -8,12 +8,13 @@ Analysis in metric spaces, in particular quasiconformal, quasi-symmetric and qua
 Besides pure mathematics I am interested in mathematical physics, in particular the geometry of space-time and string theory. Further interests are the connections between mathematics and computer science and neuroscience.
 
 # Publications
-- PhD Thesis (2021) [full text](articles/thesis.pdf)
+- PhD Thesis (2021) [doi:10.5167/uzh-217863](https://doi.org/10.5167/uzh-217863) [full text](articles/thesis.pdf)
 - Heer, L. (2017). Some Invariant Properties of Quasi-Möbius Maps. Analysis and Geometry in Metric Spaces, 5(1), pp. 69-77. [doi:10.1515/agms-2017-0004](https://doi.org/10.1515/agms-2017-0004) [full text](https://www.degruyter.com/view/j/agms.2017.5.issue-1/agms-2017-0004/agms-2017-0004.xml)
 - MSc Thesis (2015) [full text](articles/masterthesis.pdf)
 - BSc Thesis (2012) [full text](articles/bathesis.pdf)
 
 ## Drafts
+- Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara [errata](notes/nakahara-errata.pdf) ([latex source](notes/nakahara-errata.tex))
 
 # Teaching
 ## Exercise Classes
