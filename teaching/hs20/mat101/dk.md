@@ -13,6 +13,8 @@ Some other code samples and exercises can be found on the lecture website here:
 
 [https://www.math.uzh.ch/index.php?id=ve_vo_det&key1=0&key2=3927&semId=41](https://www.math.uzh.ch/index.php?id=ve_vo_det&key1=0&key2=3927&semId=41)
 
+
+<!---
 # Recordings of the Python Exercise Class and Donkey Kong Programming Project
 
 Those are all the recordings from the exercise classes. They are un-edited and may be incomplete.
@@ -31,3 +33,4 @@ Those are all the recordings from the exercise classes. They are un-edited and m
 - [Recording from 15.09.2020](https://collab.math.uzh.ch/playback/presentation/2.0/playback.html?meetingId=3ba63cc7a3a7f5ca431207b15e5beede884ddf52-1600167938677)
 - [Recording from 10.09.2020](https://collab.math.uzh.ch/playback/presentation/2.0/playback.html?meetingId=583e73b417400072650f5c055516f64c007fd233-1599732352447)
 
+-->
