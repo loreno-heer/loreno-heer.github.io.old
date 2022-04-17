@@ -9,3 +9,8 @@ lhtext:        <br/><br/>
 show_downloads: false
 markdown: kramdown
 google_analytics: G-K9EBNZ3VFP
+
+url: "https://loreno-heer.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+  
