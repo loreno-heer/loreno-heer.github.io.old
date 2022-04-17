@@ -11,10 +11,21 @@ markdown: kramdown
 google_analytics: G-K9EBNZ3VFP
 
 
-author : loreno_heer
+author: loreno_heer
+author:
+  name: Loreno Heer
+  url: https://loreno-heer.github.io/
 twitter:
   username: loreno_heer
   card: summary
+  
+social:
+  name: Loreno Heer
+  links:
+    - https://twitter.com/loreno_heer
+    - https://www.linkedin.com/in/loreno-heer-8023585/
+    - https://stackexchange.com/users/3229416/loreno-heer
+    - 
 
 
 url: "https://loreno-heer.github.io" # the base hostname & protocol for your site
