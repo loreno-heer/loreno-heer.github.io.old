@@ -10,5 +10,3 @@ show_downloads: false
 markdown: kramdown
 google_analytics: G-K9EBNZ3VFP
 
-- name: generate-sitemap
-  uses: cicirello/generate-sitemap@v1.8.2
