@@ -1,8 +1,9 @@
 remote_theme: loreno-heer/minimal
 title: "Loreno Heer"
+tagline: Website of Dr. sci. nat. Loreno Heer, Mathematician
 logo: /assets/img/cvphot2.jpg
 cv: /cv.pdf
-description:   
+description:   Website of Dr. sci. nat. Loreno Heer, Mathematician
 lhtext:        <br/><br/>
                <a href="/blog/">Blog</a><br/>
                <script type="text/javascript">gen_mail_to_link('loreno.heer','math.ch','email');</script>
