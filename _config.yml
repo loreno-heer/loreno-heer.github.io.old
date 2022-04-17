@@ -10,6 +10,13 @@ show_downloads: false
 markdown: kramdown
 google_analytics: G-K9EBNZ3VFP
 
+
+author : loreno_heer
+twitter:
+  username: loreno_heer
+  card: summary
+
+
 url: "https://loreno-heer.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
