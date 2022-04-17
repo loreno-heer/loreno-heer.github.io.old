@@ -14,7 +14,7 @@ Besides pure mathematics I am interested in mathematical physics, in particular 
 - BSc Thesis (2012) [full text](articles/bathesis.pdf)
 
 ## Drafts
-- Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara [pdf](notes/nakahara-errata.pdf) ([latex source](notes/nakahara-errata.tex)) (last updated: 16. April 2022)
+- Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara [pdf](notes/nakahara-errata.pdf) ([latex source](notes/nakahara-errata.tex)) (last updated: 17. April 2022)
 
 # Teaching
 ## Exercise Classes
