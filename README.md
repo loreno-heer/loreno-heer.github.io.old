@@ -5,7 +5,8 @@
 # Research interest
 Analysis in metric spaces, in particular quasiconformal, quasi-symmetric and quasi-Möbius geometry.
 (Gromov-)Hyperbolic geometry, geometric group theory, geometric analysis and low-dimensional topology.
-Besides pure mathematics I am interested in mathematical physics, in particular the geometry of space-time and string theory. Further interests are the connections between mathematics and computer science and neuroscience.
+Besides pure mathematics I am interested in mathematical physics, in particular the geometry of space-time and string theory. My current research centers on the study of the conformal horizon of de Sitter space in general relativity
+with a positive cosmological constant and in particular the study of gravitational waves in this setting.
 
 # Publications
 - PhD Thesis (2021) [doi:10.5167/uzh-217863](https://doi.org/10.5167/uzh-217863) [full text](articles/thesis.pdf)
