@@ -46,4 +46,5 @@ Referee for [*Journal of Mathematical Analysis and Applications*](https://www.sc
 - [MathOverflow](https://mathoverflow.net/users/54495/loreno-heer)
 
 
-<a rel="me" href="https://scholar.social/@lorenoheer" style=display:none">Mastodon</a>
+
+
